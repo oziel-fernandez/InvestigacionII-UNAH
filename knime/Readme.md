@@ -7,8 +7,9 @@ Este repositorio contiene varios flujos de trabajo de KNIME útiles para el aná
 Descripción breve de los flujos de trabajo de KNIME en este repositorio.
 
 1. **Flujo de trabajo 1**: Descripción del flujo de trabajo 1.
-2. **Flujo de trabajo 2**: Descripción del flujo de trabajo 2.
-3. **Flujo de trabajo 3**: Descripción del flujo de trabajo 3.
+2. ![image](https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/20248390/0b79412f-eb37-40e8-b58e-e57e5b8f4d5b)
+3. **Flujo de trabajo 2**: Descripción del flujo de trabajo 2.
+4. **Flujo de trabajo 3**: Descripción del flujo de trabajo 3.
 
 ## Requisitos
 
