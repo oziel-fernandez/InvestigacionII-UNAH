@@ -4,7 +4,7 @@ En este repositorio, podrás encontrar contenido relacionado con la asignatura d
 
 Esta guía proporciona un marco para realizar un trabajo de investigación utilizando experimentos aleatorios en ciencias sociales. El enfoque principal es la evaluación de impacto utilizando el software STATA.
 
-## Contenido
+## Contenido Especializado
 
 1. **Planteamiento del problema**: Define el tema, el problema a investigar y los objetivos de la investigación.
 
