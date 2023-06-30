@@ -165,7 +165,9 @@ Es importante tener en cuenta que la interpretación de los resultados de un tes
 
 **Utilizando Excel se unen las bases:** Aquí debe de hacerse un matching o emparejamiento, a continuación, un sencillo ejemplo:
 
-<img width="323" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/457b8132-1a9f-4d1e-838a-d6f546cfc4d4"> <img width="323" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/5f1c14a8-785c-4d0c-9090-5e15a3ec2d40">
+<img width="312" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/8630471d-cda7-4a03-b1f1-c7fe5c944029">  <img width="254" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/5f53a2a0-b2d4-47cf-8e37-b8aa72ed0430">
+
+
 
 
 
