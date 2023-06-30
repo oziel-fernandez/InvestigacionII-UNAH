@@ -167,26 +167,26 @@ Es importante tener en cuenta que la interpretación de los resultados de un tes
 
 <img width="350" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/8630471d-cda7-4a03-b1f1-c7fe5c944029">  <img width="320" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/5f53a2a0-b2d4-47cf-8e37-b8aa72ed0430">
 
+<img width="350" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/d12c677a-c966-407e-8f73-363ce476c03c">
+<img width="280" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/aa4be7e1-4dbf-4e6b-8011-29c334c0dc91">
+
+<img width="300" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/32890fb9-7480-451b-b459-dd71a01a38db">
+<img width="200" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/d7bc8518-d073-4c1d-89a9-4473c255a4b3">
 
 
-
-
-<img width="253" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/410c5da9-3db6-48b8-8cbb-c4107854e36d">
-
-
-
-
-
-
-<img width="254" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/69dfae93-d55e-4d61-8c9d-7d9656e077cf">
 
 
 
 **Aplicar la metodología de evaluación en stata:**
 
 Luego de la ultima base se calcula la calificación final, lo cual se aplica la sintaxis siguiente que se encuentra en el DOFILE:
+<img width="425" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/ef6d197d-f713-4e68-aabc-dea9785df416">
+
 
 En la línea 38 se observa la regresión lineal, siendo Y= la calificación y X= el tipo de grupo.
+
+<img width="349" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/fbeef028-ea98-41d6-a514-76e3d5a54001">
+
 
 
 Genera el siguiente resultado que se interpreta de la siguiente manera:
