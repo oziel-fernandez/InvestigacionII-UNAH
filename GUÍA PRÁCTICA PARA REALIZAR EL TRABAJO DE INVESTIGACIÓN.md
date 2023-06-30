@@ -52,7 +52,8 @@ Para ello deberemos de seguir los siguientes pasos:
 
 **Paso 1:** Cambiar la Ruta de la Carpeta     
 
-**Paso 2:** Cambiar el nombre de la base.dta   
+**Paso 2:** Cambiar el nombre de la base.dta   <img width="172" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/3a42a706-1db1-48e7-8ed9-75afc9fef934">
+
 
 **Paso 3:** Cambiar el nombre de la variable de interés. 
 
