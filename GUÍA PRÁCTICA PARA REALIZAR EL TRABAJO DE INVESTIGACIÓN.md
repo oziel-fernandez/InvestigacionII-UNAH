@@ -69,6 +69,8 @@ Para ello deberemos de seguir los siguientes pasos:
 Este código determina los siguientes parámetros que ayudan con el objeto de asegurar el tamaño de muestra ideal, la probabilidad de error tipo I y tipo II, los integrantes por grupo y la media de conocimiento, a continuación, se explica cada parámetro.
 
 Al correr el código en el DOFILE de STATA nos genera el siguiente cuadro:
+<img width="270" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/c4fde91e-e929-4880-8132-e784b623716e">
+
 
 Cada parámetro se interpreta de la siguiente manera:
 
@@ -105,9 +107,12 @@ Realizar la asignación aleatoria al grupo control y tratamiento: partiendo del 
 **PASO 3 EN STATA:**
 
 **Generar el grupo control y el grupo tratamiento de manera aleatoria:**  mediante la instrucción siguiente: 
+<img width="353" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/131b3220-4baf-4ac8-943e-b8f7b47f9b6f">
+
 
 Este código permite construir una variable en la base de datos llamada Trat que tendrá resultado binario de 0 y 1 refiriéndose al grupo tratamiento y el grupo control, la puede revisar en la base de datos de STATA, entrando al editor de datos y desplegando la base de datos.
 
+<img width="192" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/a32ecbc8-cccb-4e76-ab78-e8ee38e88cc3">
 
 
 Con la variable (Trat) se determina que personas conforman los grupo tratamiento(1) y control(0), a los que tengan (1) se les enviara la intervención o el tratamiento y los (0) solo e les enviara las encuestas de medición. 
@@ -115,6 +120,13 @@ Con la variable (Trat) se determina que personas conforman los grupo tratamiento
 **PASO 4 EN STATA:**
 
 Se realiza el Test de media que ayuda a determinar si la media entre el grupo control y tratamiento son iguales 
+
+<img width="350" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/3154e7a3-6054-45fb-8808-3e6fb85bf2f6">
+
+
+
+
+<img width="307" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/573d2e6d-9722-4af2-b301-40a64e71ece4">
 
 
 
@@ -152,6 +164,10 @@ Es importante tener en cuenta que la interpretación de los resultados de un tes
 **Limpieza de base de datos de segunda encuesta en Excel:** después de recibida la segunda encuesta, se procede a construir el indicador, siguiendo el mismo procedimiento que el indicador de la primera encuesta, luego dejarla en la misma medida porcentual. Se requiere que la base de Excel quede muy bien configurada, que las variables cadena pasen a numero, que no queden missing o datos atípicos.
 
 **Utilizando Excel se unen las bases:** Aquí debe de hacerse un matching o emparejamiento, a continuación, un sencillo ejemplo:
+
+<img width="201" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/dda735a6-89d0-4676-8abd-8c1fea5147c3"> <img width="144" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/4e3a64e6-06d8-4522-a277-baa5a6e762a9">
+
+
 
 
 
