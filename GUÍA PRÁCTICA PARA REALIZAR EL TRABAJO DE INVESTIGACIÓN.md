@@ -173,9 +173,6 @@ Es importante tener en cuenta que la interpretación de los resultados de un tes
 
 
 
-<img width="300" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/32890fb9-7480-451b-b459-dd71a01a38db">
-<img width="200" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/d7bc8518-d073-4c1d-89a9-4473c255a4b3">
-
 
 **Aplicar la metodología de evaluación en stata:**
 
@@ -189,7 +186,7 @@ En la línea 38 se observa la regresión lineal, siendo Y= la calificación y X=
 
 
 
-Genera el siguiente resultado que se interpreta de la siguiente manera:
+El siguiente resultado que se interpreta de la siguiente manera:
 
 \_cons= .5175 indica que la media de conocimiento es del 51% 
 
