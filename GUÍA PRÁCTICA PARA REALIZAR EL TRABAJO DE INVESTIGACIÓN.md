@@ -171,40 +171,14 @@ Es importante tener en cuenta que la interpretación de los resultados de un tes
 
 
 
+<img width="253" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/410c5da9-3db6-48b8-8cbb-c4107854e36d">
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="254" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/69dfae93-d55e-4d61-8c9d-7d9656e077cf">
 
 
 
