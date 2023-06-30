@@ -170,6 +170,8 @@ Es importante tener en cuenta que la interpretación de los resultados de un tes
 <img width="350" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/d12c677a-c966-407e-8f73-363ce476c03c">
 <img width="280" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/aa4be7e1-4dbf-4e6b-8011-29c334c0dc91">
 
+**Inner Joing: con la ayuda de los diagramas de Venn**  se busca **el inner join** es decir que coincidan o que hagan match  las dos bases de dato, refiriendose a la primer y segunda medición o encuesta.
+<img width="366" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/d4e7c073-3ee2-4648-a7d7-77f7726d1ac3">
 
 
 
