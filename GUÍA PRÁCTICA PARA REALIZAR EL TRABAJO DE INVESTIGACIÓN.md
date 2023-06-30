@@ -147,7 +147,7 @@ Ha: la diferencia de medias en (menor que cero) (igual a cero) (mayor que cero)
 
 **Si el Pvalue de la hipótesis alternativa (Ha)** es menor que el 0.05 entonces se rechaza la hipótesis alternativa y no se rechaza (o se acepta) la hipótesis nula de que la Diferencia de las medias grupales es igual a cero.
 
-`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   `**Valor p:** es la probabilidad de obtener el resultado observado en los datos, o un resultado aún más extremo, bajo la suposición de que la H0 es verdadera. Si el valor p es menor que el valor de alpha, se rechaza la H0.
+**Valor p:** es la probabilidad de obtener el resultado observado en los datos, o un resultado aún más extremo, bajo la suposición de que la H0 es verdadera. Si el valor p es menor que el valor de alpha, se rechaza la H0.
 
 Supongamos que se desea comparar las medias de una variable (por ejemplo, la altura) en dos grupos de individuos (por ejemplo, hombres y mujeres). Se puede realizar un test de medias en Stata utilizando el comando "ttest". Si el test arroja un valor Pvalue menor que el valor de alpha seleccionado, se puede concluir que hay una diferencia significativa entre las medias de los dos grupos. Por ejemplo, si se utiliza un valor de alpha de 0.05 y se obtiene un valor p de 0.03, se podría concluir que hay una diferencia significativa entre las alturas promedio de hombres y mujeres.
 
@@ -165,7 +165,9 @@ Es importante tener en cuenta que la interpretación de los resultados de un tes
 
 **Utilizando Excel se unen las bases:** Aquí debe de hacerse un matching o emparejamiento, a continuación, un sencillo ejemplo:
 
-<img width="201" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/dda735a6-89d0-4676-8abd-8c1fea5147c3"> <img width="144" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/4e3a64e6-06d8-4522-a277-baa5a6e762a9">
+<img width="323" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/457b8132-1a9f-4d1e-838a-d6f546cfc4d4"> <img width="323" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/5f1c14a8-785c-4d0c-9090-5e15a3ec2d40">
+
+
 
 
 
