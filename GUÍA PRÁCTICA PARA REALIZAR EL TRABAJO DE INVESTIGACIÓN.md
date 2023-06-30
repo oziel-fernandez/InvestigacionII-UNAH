@@ -170,11 +170,11 @@ Es importante tener en cuenta que la interpretación de los resultados de un tes
 <img width="350" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/d12c677a-c966-407e-8f73-363ce476c03c">
 <img width="280" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/aa4be7e1-4dbf-4e6b-8011-29c334c0dc91">
 
+
+
+
 <img width="300" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/32890fb9-7480-451b-b459-dd71a01a38db">
 <img width="200" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/d7bc8518-d073-4c1d-89a9-4473c255a4b3">
-
-
-
 
 
 **Aplicar la metodología de evaluación en stata:**
