@@ -50,14 +50,17 @@ Para ello deberemos de seguir los siguientes pasos:
 
 **Abrir el Dofile y modificar de acuerdo con sus necesidades:**  La estructura del Dofile se va construyendo paso a paso de acuerdo con las necesidades de la investigación. En este caso se trabajará con un DOFILE ya construido ya que no es el objetivo crear uno desde cero, esto lo hará usted en otros trabajos. Le presento una serie de pasos para utilizarlo
 
-**Paso 1:** Cambiar la Ruta de la Carpeta     
+**Paso 1:** Cambiar la Ruta de la Carpeta  <img width="336" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/d038cb5a-1015-4796-b7b9-f1328d770c8e">
+   
 
 **Paso 2:** Cambiar el nombre de la base.dta   <img width="192" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/3a42a706-1db1-48e7-8ed9-75afc9fef934">
 
 
 **Paso 3:** Cambiar el nombre de la variable de interés. 
 
-**Paso 4:** Seleccionar el código y correr. 
+**Paso 4:** Seleccionar el código y correr. <img width="222" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/b529ebd2-9ff6-4a46-93dc-796758f35286">
+<img width="90" alt="image" src="https://github.com/oziel-fernandez/InvestigacionII-UNAH/assets/138162732/731c6b03-8a2d-4af2-b8c7-53f3cb3aea80">
+
 **
 
 
