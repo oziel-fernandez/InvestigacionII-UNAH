@@ -7,7 +7,7 @@ En este repositorio, podrás encontrar contenido relacionado con la asignatura d
 En esta primera sección, encontrarás los conceptos básicos de la Metodología y Técnicas de Investigación. Para ello, deberás realizar lecturas y crear esquemas que te permitan conocer y comprender los aspectos fundamentales. A continuación, listamos los contenidos mínimos a ser estudiados y los referenciamos a los respectivos documentos o videos:
 
 
-1. [Conceptos Básicos de Investigación](https://www.youtube.com/watch?v=s_By2mJKgMs).
+1. [VIDEO:Conceptos Básicos de Investigación](https://www.youtube.com/watch?v=s_By2mJKgMs).
 2. [VIDEO:Planteamiento del problema](https://www.youtube.com/watch?v=eZIkkIiGK7g).
 3. [VIDEO: Que és y cómo se construye el Marco Teórico](https://www.youtube.com/watch?v=d2lMlgT1O5w).
 4. [VIDEO: Alcance de investigación](https://www.youtube.com/watch?v=a1n2LrRfX5o).
