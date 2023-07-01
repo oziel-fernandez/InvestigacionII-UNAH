@@ -16,10 +16,6 @@ En esta primera sección, encontrarás los conceptos básicos de la Metodología
 10. [PPT de clase](https://drive.google.com/file/d/1kuzV3qLPsqbuN5ZodmxxaxF16lC8RcK7/view?usp=sharing).
 
 
-
-
-1. **Planteamiento del problema**: Define el tema, el problema a investigar y los objetivos de la investigación.
-
 # Guía Práctica para Realizar el Trabajo de Investigación
 Esta guía proporciona un marco para realizar un trabajo de investigación utilizando experimentos aleatorios en ciencias sociales. El enfoque principal es la evaluación de impacto utilizando el software STATA.
 
