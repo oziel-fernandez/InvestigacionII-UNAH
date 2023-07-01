@@ -5,15 +5,12 @@ En este repositorio, podrás encontrar contenido relacionado con la asignatura d
 
 En esta primera sección, encontrarás los conceptos básicos de la Metodología y Técnicas de Investigación. Para ello, deberás realizar lecturas y crear esquemas que te permitan conocer y comprender los aspectos fundamentales. A continuación, listamos los contenidos mínimos a ser estudiados y los referenciamos a los respectivos documentos o videos:
 
-## Introducción a la Metodología de Investigación (Unidad I)
 
 1. [Conceptos Básicos de Investigación](https://www.youtube.com/watch?v=s_By2mJKgMs).
 2. [Planteamiento del problema](https://www.youtube.com/watch?v=eZIkkIiGK7g).
 3. [Que és y cómo se construye el Marco Teórico](https://www.youtube.com/watch?v=d2lMlgT1O5w).
 4. [Alcance de investigación](https://www.youtube.com/watch?v=a1n2LrRfX5o).
-
-
-7. Contenido de los capítulos 1, 2, 3, 4 y 5 del libro "Metodologías de Investigación" de Hernandes Sampieri.
+7. Contenido de los capítulos 1, 2, 3, 4 y 5 del libro "Metodologías de Investigación" de [Hernandes Sampieri](https://drive.google.com/drive/u/0/folders/1DkYwPzRW0gBJgHplR26ILGKdowWwszuj)
 8. Contenido del capítulo 5, apartado 5.8 (página 194) "DISEÑO EXPERIMENTAL EN INVESTIGACIÓN" del libro "Metodologías de Investigación" de Cesar Bernal.
 9. Contenido del capítulo 1 "¿Por qué evaluar?" del libro "Evaluación de impacto" del BID.
 10. [PPT de clase](link-al-PPT-de-material).
