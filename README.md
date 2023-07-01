@@ -1,7 +1,8 @@
 # Investigacion II-UNAH
 En este repositorio, podrás encontrar contenido relacionado con la asignatura de Métodos y Técnicas de Investigación II que se imparte en la carrera de Economía de la Universidad Nacional Autónoma de Honduras. Nuestro objetivo principal es brindar una herramienta para facilitar el acceso al conocimiento a los estudiantes.
 
-# Introducción a la Metodología de Investigación (Unidad I)
+# I UNIDAD
+## Introducción a la Metodología de Investigación (Unidad I)
 
 En esta primera sección, encontrarás los conceptos básicos de la Metodología y Técnicas de Investigación. Para ello, deberás realizar lecturas y crear esquemas que te permitan conocer y comprender los aspectos fundamentales. A continuación, listamos los contenidos mínimos a ser estudiados y los referenciamos a los respectivos documentos o videos:
 
@@ -15,6 +16,7 @@ En esta primera sección, encontrarás los conceptos básicos de la Metodología
 9. Contenido del capítulo 1 "¿Por qué evaluar?" del libro [Evaluación de impacto del BID](https://drive.google.com/file/d/1XsrmmcO31YknF2qOwPCUVgiFoXUQHgj8/view?usp=sharing)
 10. [PPT presentaciones de clase](https://drive.google.com/file/d/1kuzV3qLPsqbuN5ZodmxxaxF16lC8RcK7/view?usp=sharing).
 
+# II UNIDAD
 
 # Guía Práctica para Realizar el Trabajo de Investigación
 Esta guía proporciona un marco para realizar un trabajo de investigación utilizando experimentos aleatorios en ciencias sociales. El enfoque principal es la evaluación de impacto utilizando el software STATA.
