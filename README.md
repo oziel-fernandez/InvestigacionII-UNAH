@@ -1,12 +1,23 @@
 # Investigacion II-UNAH
 En este repositorio, podrás encontrar contenido relacionado con la asignatura de Métodos y Técnicas de Investigación II que se imparte en la carrera de Economía de la Universidad Nacional Autónoma de Honduras. Nuestro objetivo principal es brindar una herramienta para facilitar el acceso al conocimiento a los estudiantes.
-# Guía Práctica para Realizar el Trabajo de Investigación
 
-Esta guía proporciona un marco para realizar un trabajo de investigación utilizando experimentos aleatorios en ciencias sociales. El enfoque principal es la evaluación de impacto utilizando el software STATA.
+# Introducción a la Metodología de Investigación (Unidad I)
 
-## Contenido Especializado
+En esta primera sección, encontrarás los conceptos básicos de la Metodología y Técnicas de Investigación. Para ello, deberás realizar lecturas y crear esquemas que te permitan conocer y comprender los aspectos fundamentales. A continuación, listamos los contenidos mínimos a ser estudiados y los referenciamos a los respectivos documentos o videos:
+
+1. [Videos del planteamiento del problema](link-a-los-videos).
+2. Contenido de los capítulos 1, 2, 3, 4 y 5 del libro "Metodologías de Investigación" de Hernandes Sampieri.
+3. Contenido del capítulo 5, apartado 5.8 (página 194) "DISEÑO EXPERIMENTAL EN INVESTIGACIÓN" del libro "Metodologías de Investigación" de Cesar Bernal.
+4. Contenido del capítulo 1 "¿Por qué evaluar?" del libro "Evaluación de impacto" del BID.
+5. [PPT de clase](link-al-PPT-de-clase).
+
+Por favor, reemplaza "link-a-los-videos" y "link-al-PPT-de-clase" con los enlaces correspondientes.
+ 
 
 1. **Planteamiento del problema**: Define el tema, el problema a investigar y los objetivos de la investigación.
+
+# Guía Práctica para Realizar el Trabajo de Investigación
+Esta guía proporciona un marco para realizar un trabajo de investigación utilizando experimentos aleatorios en ciencias sociales. El enfoque principal es la evaluación de impacto utilizando el software STATA.
 
 2. **Metodología de evaluación de impacto**: Incluye la creación de un marco muestral, la ejecución de la investigación, la preparación de la información y el análisis de los resultados.
 
