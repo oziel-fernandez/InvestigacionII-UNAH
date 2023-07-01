@@ -10,9 +10,9 @@ En esta primera sección, encontrarás los conceptos básicos de la Metodología
 2. [VIDEO:Planteamiento del problema](https://www.youtube.com/watch?v=eZIkkIiGK7g).
 3. [VIDEO: Que és y cómo se construye el Marco Teórico](https://www.youtube.com/watch?v=d2lMlgT1O5w).
 4. [VIDEO: Alcance de investigación](https://www.youtube.com/watch?v=a1n2LrRfX5o).
-7. Contenido de los capítulos 1, 2, 3, 4 y 5 del libro "Metodologías de Investigación" de [Hernandes Sampieri](https://drive.google.com/drive/u/0/folders/1DkYwPzRW0gBJgHplR26ILGKdowWwszuj)
-8. Contenido del capítulo 5, apartado 5.8 (página 194) "DISEÑO EXPERIMENTAL EN INVESTIGACIÓN" del libro [Metodologías de Investigación de Cesar Bernal](https://drive.google.com/drive/u/0/folders/1DkYwPzRW0gBJgHplR26ILGKdowWwszuj)
-9. Contenido del capítulo 1 "¿Por qué evaluar?" del libro [Evaluación de impacto del BID](https://drive.google.com/drive/u/0/folders/1DkYwPzRW0gBJgHplR26ILGKdowWwszuj)
+7. Contenido de los capítulos 1, 2, 3, 4 y 5 del libro "Metodologías de Investigación" de [Hernandes Sampieri](https://drive.google.com/file/d/17PvWd82vSgQoWlgCijmreYOgEo7xFCK-/view?usp=sharing)
+8. Contenido del capítulo 5, apartado 5.8 (página 194) "DISEÑO EXPERIMENTAL EN INVESTIGACIÓN" del libro [Metodologías de Investigación de Cesar Bernal](https://drive.google.com/file/d/1W25c92Rs_CFji4T8TF-wbX0jlNx_viXf/view?usp=sharing)
+9. Contenido del capítulo 1 "¿Por qué evaluar?" del libro [Evaluación de impacto del BID](https://drive.google.com/file/d/1XsrmmcO31YknF2qOwPCUVgiFoXUQHgj8/view?usp=sharing)
 10. [PPT presentaciones de clase](https://drive.google.com/file/d/1kuzV3qLPsqbuN5ZodmxxaxF16lC8RcK7/view?usp=sharing).
 
 
