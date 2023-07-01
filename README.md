@@ -5,8 +5,7 @@ En este repositorio, podrás encontrar contenido relacionado con la asignatura d
 
 En esta primera sección, encontrarás los conceptos básicos de la Metodología y Técnicas de Investigación. Para ello, deberás realizar lecturas y crear esquemas que te permitan conocer y comprender los aspectos fundamentales. A continuación, listamos los contenidos mínimos a ser estudiados y los referenciamos a los respectivos documentos o videos:
 
-1. Videos del planteamiento del problema.
-   a. [video planteamiento del problea][https://unahedu-my.sharepoint.com/:v:/g/personal/oziel_fernandez_unah_edu_hn/EaKaamsA_JRKkPrlOZAtOH8BtsOVmySRKEf1dZUpYsd6zQ?e=Qc9UqY]
+1. Videos del planteamiento del problema.[https://www.youtube.com/watch?v=s_By2mJKgMs]
 3. Contenido de los capítulos 1, 2, 3, 4 y 5 del libro "Metodologías de Investigación" de Hernandes Sampieri.
 4. Contenido del capítulo 5, apartado 5.8 (página 194) "DISEÑO EXPERIMENTAL EN INVESTIGACIÓN" del libro "Metodologías de Investigación" de Cesar Bernal.
 5. Contenido del capítulo 1 "¿Por qué evaluar?" del libro "Evaluación de impacto" del BID.
